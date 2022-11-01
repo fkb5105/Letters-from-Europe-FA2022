@@ -1,0 +1,8 @@
+start = root
+root = element root {letter}
+letter = element letter {n, mixed {(penmanship*, corr*)}}
+n = attribute n {xsd:integer}
+penmanship = element penmanship {type, text}
+type = attribute type {'handwriting' | 'doodle' | 'spell err' | 'missing text'}
+corr = element corr {type, text}
+

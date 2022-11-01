@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="XML-RNG/Letters.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="Letters.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <letter n="1">
         <penmanship type="handwriting">Left Loen for Balestrand Aug 22</penmanship> Departed from
