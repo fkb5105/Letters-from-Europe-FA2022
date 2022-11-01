@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <page2 img="1">
+        <desc> Image of Kvinke Turisthotell, Balestrand, Norway </desc>
+    </page2>
+
+    <page2 img="2">
+        <desc> Image of mountains, Balestrand, Norway </desc>
+    </page2>
+
+    <page3 img="1">
+        <desc> Image of Bucklin the horse being loaded onto a boat, Sognefjord, Norway </desc>
+    </page3>
+
+    <page4 img="1">
+        <desc> Image of ariel view of Kvinke Turisthotell and fjord, Balestrand, Norway </desc>
+    </page4>
+
+    <page7 img="1">
+        <desc> Image of a stuffed polar bear at a souvenir shop, Kaupanger, Norway </desc>
+    </page7>
+
+    <page7 img="2">
+        <desc> Image of boat being loaded, Kaupanger, Norway </desc>
+    </page7>
+
+    <page8>
+        <desc> Image of two women milking goats </desc>
+    </page8>
+
+    <page8 img="2">
+        <desc> Image of red buildings on a mountain side </desc>
+    </page8>
+
+    <page9 img="1">
+        <desc> Image of skier's on a hill, Stalheim, Norway </desc>
+    </page9>
+
+    <page9 img="2">
+        <desc> Image of Skier's on a hill, Stalheim, Norway </desc>
+    </page9>
+
+    <page10 img="1">
+        <desc> Image titled "Between Balestrand &amp; Stalheim", Stalheim Turisthotell, Norway
+        </desc>
+    </page10>
+
+    <page10 img="2">
+        <desc> Image titled "Between Balestrand &amp; Stalheim" </desc>
+    </page10>
+
+    <page12 img="1">
+        <desc> Image of Gale on a Skinke, Ulvick, Norway </desc>
+    </page12>
+
+    <page13 img="1">
+        <desc> Image of Brakanes Hotell and boats for guests, Ulvick, Norway </desc>
+    </page13>
+
+    <page14 img="1">
+        <desc> Drawing labeled "VIEW FROM HOTEL AT ULVIK", Ulkick, Norway </desc>
+    </page14>
+</root>
