@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="Letters.rnc" type="application/relax-ng-compact-syntax"?>
-<root><letter n="5.1"><pen type="handwrit"><place name="Bal">BALESTRAND</place><corr type="cross out"> TO <place name="Stal">STALHEIM</place></corr>
+<root><letter n="5"><pen type="handwrit"><place name="Bal">BALESTRAND</place><corr type="cross out"> TO <place name="Stal">STALHEIM</place></corr>
 <date when="1955-08-23">AUGUST 23rd</date> </pen>
 At breakfast a HUGE Smorgesbrot
 Everything <corr type="spell err" aka="imaginable">imagineable</corr> <corr type="miss text">onthe</corr> big
