@@ -1,7 +1,8 @@
 start = root
 root = element root {letter+}
-letter = element letter {n, mixed {(pen*, corr*, place*, date*, person*, thing*)+}}
-n = attribute n {xsd:float}
+letter= element letter {n, (l+,pen*)+}
+l= element l {n, mixed {(pen*, corr*, place*, date*, person*, tran*)+}}
+n = attribute n {xsd:integer}
 pen = element pen {type, place*, corr*, date*, person*, text}
 type = attribute type {'handwrit' | 'doodle' | 'spell err' | 'miss text'| 'cross out'|'overlap'|'underlined'}
 corr = element corr {type, aka?, what?, text,place*}
@@ -14,4 +15,5 @@ person= element person{(who|name), text}
 name= attribute name{xsd:ID}
 who=attribute who {xsd:IDREFS}
 where= attribute where{xsd:IDREFS}
-thing= element thing {what, text}
+tran= element tran {(name|which), text}
+which= attribute which {xsd:IDREFS}
