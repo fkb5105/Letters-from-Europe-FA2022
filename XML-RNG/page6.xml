@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="Letters.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
-    <letter n="3" part="2">
-        <l n="1"/>No one drives very fast- quite the opposite in fact, and
+   <letter n="3" part="2">
+      <l n="1"/>No one drives very fast- quite the opposite in fact, and
         <l n="2"/>if another car is coming <corr type="spell err">t owrd</corr> us one or the other
             drive
         <l n="3"/>will quickly look the situation over and back up into a
         <l n="4"/>place wide enough so the other car can pass. Many tourists
-        <l n="5"/>from these countries and <corr type="overlap" what="g/l"><place name="Eng"
-                    >Englland</place></corr> etc seem to travel by
+        <l n="5"/>from these countries and <corr type="overlap" what="g/l">
+         <place name="Eng">Englland</place>
+      </corr> etc seem to travel by
         <l n="6"/>the sturdy little <corr type="spell err" aka="fjord">fjoyd</corr> steamers and
             between <corr type="spell err" aka="fjords">fjoyds</corr>
-        <l n="7"/>by bus. The Belgians build a smallish red bus with
+      <l n="7"/>by bus. The Belgians build a smallish red bus with
         <l n="8"/>a good deal of glass- high wide windows and glass over the
         <l n="9"/>roof- where shirred <corr type="spell err" aka="curtains">curtaions</corr> can be
             pulled over when the
@@ -21,50 +22,51 @@
         <l n="12"/>pick up and carry along, all sorts of merchandise for
         <l n="13"/>the people living in the small villages. Also all mail
         <l n="14"/>as well as <corr type="spell err" aka="supplies">suppies</corr> for the hotels and
-            little inns are del<l n="15"/><corr type="miss text"/>livered in this manner. At <pen
-                type="handwrit"><place name="Kaup">Kaupanger</place> 2.30</pen> had a sort of
-        <l n="16"/>lunch in a <corr type="miss text" aka="brand">bran</corr> new lunch room,<corr
-                type="spell err">iwith</corr> a porch on second
+            little inns are del<l n="15"/>
+      <corr type="miss text"/>livered in this manner. At <pen type="handwrit">
+         <place name="Kaup">Kaupanger</place> 2.30</pen> had a sort of
+        <l n="16"/>lunch in a <corr type="miss text" aka="brand">bran</corr> new lunch room,<corr type="spell err">iwith</corr> a porch on second
         <l n="17"/>floor where the tourists were busy with coffee etc. In
         <l n="18"/>a little shop below I got some post cards
         <l n="19"/>also a funny wooden hook(to copy for the
-        <l n="20"/>bazaar in <place name="Green">Greenwich</place>' )Took funny little <tran
-                name="boat">ferry</tran>
-        <l n="21"/><place name="Sog">Sogndal</place> to <place name="Loft">Loftsnes</place>- about 5
+        <l n="20"/>bazaar in <place name="Green">Greenwich</place>' )Took funny little <tran name="boat">ferry</tran>
+      <l n="21"/>
+      <place name="Sog">Sogndal</place> to <place name="Loft">Loftsnes</place>- about 5
             minutes across
         <l n="22"/>Run attached to wire cables. A bridge is BEING <pen type="doodle">Doodle of
             figure, presumably a girl, holding something in her arms is featured on the right side
             of the page.</pen>
-        <l n="23"/>built across this narrow place. A little girl
+      <l n="23"/>built across this narrow place. A little girl
         <l n="24"/>was selling plums in tiny paper<corr type="miss text"/>cornicopias.
         <l n="25"/>Very sweet and good.
         <l n="26"/>after continuing
-        <l n="27"/><corr type="spell err" aka="along">alo ng</corr> the "river" we took the larger
+        <l n="27"/>
+      <corr type="spell err" aka="along">alo ng</corr> the "river" we took the larger
                 <tran which="boat">steamer</tran>
-        <l n="28"/>on which were sandwiched in about a dozen cars
+      <l n="28"/>on which were sandwiched in about a dozen cars
         <l n="29"/>plus a lot of people - and proceeded up the
-        <l n="30"/>big <corr type="spell err" aka="fjord">fioyd</corr>. Grand views at <corr
-                type="spell err" aka="every">erevy</corr> turn. And
+        <l n="30"/>big <corr type="spell err" aka="fjord">fioyd</corr>. Grand views at <corr type="spell err" aka="every">erevy</corr> turn. And
         <pen type="doodle">The left side of the page features a doodle of a factory chimney with the
             caption "Curious factory chimney by the way."</pen>
-        <l n="31"/>of course many waterfalls. This is the
+      <l n="31"/>of course many waterfalls. This is the
         <l n="32"/>deepest and largest <corr type="spell err" aka="fjord">fjoyd</corr> as before
         <l n="33"/>mentioned' Arrived at <place name="Gud">Gudvangen</place>
-        <l n="34"/>end of <corr type="spell err" aka="fjord">fjoyd</corr>- that is, end of
+      <l n="34"/>end of <corr type="spell err" aka="fjord">fjoyd</corr>- that is, end of
         <l n="35"/>this "arm" of it.There was some excitement
         <l n="36"/>in untangling the motor cars and trucks. Then
         <l n="37"/>we started UP THE GRADE to the Stalheim
         <l n="38"/>hotel-way on top of an especially high
         <l n="39"/>spot. A red building sprawled all over the place.A
-        <l n="40"/><person name="Max">Mrs Maxwell</person> and her brother <person name="Cloth">Mr
+        <l n="40"/>
+      <person name="Max">Mrs Maxwell</person> and her brother <person name="Cloth">Mr
                 Clothier</person> were also <corr type="spell err" aka="stopping">st opp</corr>
-        <l n="41"/>same hotel So we saw<corr type="miss text"/>them later and discussed "DOONERS"
+      <l n="41"/>same hotel So we saw<corr type="miss text"/>them later and discussed "DOONERS"
         <l n="42"/>The funny feather lined puffs that are used on ALL beds
         <l n="43"/>everywhere around here. These are just laid on the beds
         <l n="44"/>and not tucked in. Rugs all around walls in dining room
-        <l n="45"/>a great ski place.maps of the runs all <corr type="spell err" aka="around"
-                >adound</corr> the rooms.
+        <l n="45"/>a great ski place.maps of the runs all <corr type="spell err" aka="around">adound</corr> the rooms.
         <pen type="doodle">The bottom of the page features a doodle of a person laying in bed with a
             blanket over them. The caption reads "The 'dooner' Pull it up &amp; feet stick out!"
-        </pen></letter>
+        </pen>
+   </letter>
 </root>
