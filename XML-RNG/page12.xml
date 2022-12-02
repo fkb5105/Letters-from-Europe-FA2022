@@ -3,14 +3,14 @@
 <root>
    <letter n="4" part="2">
       <l n="1"/>Some shingles have the shape of diamonds or scallops.
-        <pen type="doodle">(doodle in top left corner of shingles)</pen>
+        <pen type="doodle">Doodle in top left corner of shingles</pen>
       <l n="2"/>The valley <corr type="spell err" aka="became">becamr</corr> narrower- and we
         <l n="3"/>followed along the r.r. track.Looking
         <l n="4"/>back were the higher mountains with
         <l n="5"/>snow on the highest places.
         <l n="6"/>Suddenly we came into a narrow
         <l n="7"/>canyon, with high rocky sides- the
-        <l n="8"/>tiny <corr type="spell err" aka="clusters">clusyers</corr> of houses wat,<corr type="spell err" aka="way">wat</corr> below.Passed a very very
+        <l n="8"/>tiny <corr type="spell err" aka="clusters">clusyers</corr> of houses way,<corr type="spell err" aka="way">wat</corr> below.Passed a very very
         <l n="9"/>tall waterfall.And then descended to a
         <l n="10"/>beautiful <corr type="spell err" aka="lush">luch</corr> green valley -around the
             edge of <corr type="spell err" aka="fjord">fjoyd</corr>
@@ -19,14 +19,14 @@
       <corr type="spell err" aka="orchards">archards</corr> and fruit trees.and also
             thickly wooded. The
         <l n="13"/>road went winding down into the village of <corr type="spell err" aka="Ulvik">
-         <place name="Ulv">Ulvick</place>
+         <place name="Ulvik">Ulvick</place>
       </corr>. To
-        <l n="14"/>the Brakanes <corr type="spell err" aka="fjord">Hotell</corr> directly on the
+        <l n="14"/>the Brakanes <corr type="spell err" aka="Hotel">Hotell</corr> directly on the
                 <corr type="spell err" aka="fjord">fjoyd</corr>. With a
         <l n="15"/>marvelous outlook About 3.30Takes about 40 minutes to
         <l n="16"/>go 12 miles. This is a very modern Norwegian hotel
         <l n="17"/>Tastefully furnished. <corr type="spell err" aka="We">W</corr> each had a <corr type="spell err" aka="little">litttlr</corr>
-      <corr type="spell err" aka="room with">roomwith</corr>
+      <corr type="miss text">roomwith</corr>
       <l n="18"/>big double windows to the floor.A bed, a closet, a bed
         <l n="19"/>stand a dressing table and seat. a table a trunk or
         <l n="20"/>
@@ -38,11 +38,10 @@
         <l n="24"/>the Heavenly view beyond- the water and the "layers"
         <l n="25"/>of <corr type="spell err" aka="mountains in">mountainsin</corr> the <corr type="spell err" aka="distance">distan ce</corr>.
         <pen type="handwrit">Dining room holey wood floor in a sort of herring bone pattern. Walls
-            of pine placed along chairst comfortable with backs &amp; seats of grey-blue (illegible)
+            of pine placed along chairs comfortable with backs &amp; seats of grey-blue <pen type="illegible"/>
             pattern</pen>
       <pen type="handwrit">
          <person name="GailWilde">Gail</person> on a skinke</pen>
-      <pen type="doodle">(doodle in bottom right cornner of "View as one enters hotel")</pen>
-      <pen type="handwrit">View as one enters hotel</pen>
+      <pen type="doodle">doodle in bottom right corner with caption:"View as one enters hotel"</pen>
    </letter>
 </root>

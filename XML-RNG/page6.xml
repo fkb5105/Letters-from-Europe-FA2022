@@ -3,7 +3,7 @@
 <root>
    <letter n="3" part="2">
       <l n="1"/>No one drives very fast- quite the opposite in fact, and
-        <l n="2"/>if another car is coming <corr type="spell err">t owrd</corr> us one or the other
+        <l n="2"/>if another car is coming <corr type="spell err" aka="toward">t owrd</corr> us one or the other
             drive
         <l n="3"/>will quickly look the situation over and back up into a
         <l n="4"/>place wide enough so the other car can pass. Many tourists
@@ -25,7 +25,7 @@
             little inns are del<l n="15"/>
       <corr type="miss text"/>livered in this manner. At <pen type="handwrit">
          <place name="Kaup">Kaupanger</place> 2.30</pen> had a sort of
-        <l n="16"/>lunch in a <corr type="miss text" aka="brand">bran</corr> new lunch room,<corr type="spell err">iwith</corr> a porch on second
+        <l n="16"/>lunch in a <corr type="miss text" aka="brand">bran</corr> new lunch room,<corr type="spell err" aka="with">iwith</corr> a porch on second
         <l n="17"/>floor where the tourists were busy with coffee etc. In
         <l n="18"/>a little shop below I got some post cards
         <l n="19"/>also a funny wooden hook(to copy for the
@@ -58,7 +58,7 @@
         <l n="38"/>hotel-way on top of an especially high
         <l n="39"/>spot. A red building sprawled all over the place.A
         <l n="40"/>
-      <person name="Max">Mrs Maxwell</person> and her brother <person name="Cloth">Mr
+      <person name="Maxwell">Mrs Maxwell</person> and her brother <person name="Clothier">Mr
                 Clothier</person> were also <corr type="spell err" aka="stopping">st opp</corr>
       <l n="41"/>same hotel So we saw<corr type="miss text"/>them later and discussed "DOONERS"
         <l n="42"/>The funny feather lined puffs that are used on ALL beds
