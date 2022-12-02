@@ -1,28 +1,108 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Gallery</title>
-        <style>
-body {background-color: black;}
-h2   {color: white;}
-</style>
+        <title>PSB DIGIT Splash</title>
+        <meta charset="UTF-8" />
+        <meta name="author" content="Felipe Bassi" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <link rel="stylesheet" type="text/css" href="fonts/fonts.css" />
+        <script src="main.js"></script>
+        <script src="https://use.fontawesome.com/664cfabaeb.js"></script>
     </head>
     <body>
-        <h2>Photo Gallery of the Behrend Travel Letters</h2>
-        <img src="images/lfeBook2Cover.jpg" alt="Book 2 Cover" width="600" height="900"/>
-        <img src="images/lfePage1.jpg" alt="Travel Letter from Balestrand, August 22" width="600" height="900"/>
-        <img src="images/lfePage2.jpg" alt="Photograph of a mountain and photograph of building" width="600" height="900"/>
-        <img src="images/lfePage3.jpg" alt="Photograph of horse being hoisted onto a boat" width="600" height="900"/>
-        <img src="images/lfePage4.jpg" alt="High angle photograph of buildings, lake, mountain" width="600" height="900"/>
-        <img src="images/lfePage5.jpg" alt="Travel Letter from Balestrand, August 23" width="600" height="900"/>
-        <img src="images/lfePage6.jpg" alt="Travel Letter from Belgium" width="600" height="900"/>
-        <img src="images/lfePage7.jpg" alt="Photograph of stuffed polar bear and photograph of dock, boat" width="600" height="900"/>
-        <img src="images/lfePage8.jpg" alt="Photograph of goats and photograph of mountain, building" width="600" height="900"/>
-        <img src="images/lfePage9.jpg" alt="Photographs of skiiers" width="600" height="900"/>
-        <img src="images/lfePage10.jpg" alt="Photographs between Balestrand and Stalheim" width="600" height="900"/>
-        <img src="images/lfePage11.jpg" alt="Travel letter from Stalheim, August 25" width="600" height="900"/>
-        <img src="images/lfePage12.jpg" alt="Travel letter from Stalheim, August 25, page 2" width="600" height="900"/>
-        <img src="images/lfePage13.jpg" alt="Travel letter from Ulrik, Photograph of building" width="600" height="900"/>
-        <img src="images/lfePage14.jpg" alt="Drawing labeled: view from hotel at Ulrik" width="600" height="900"/>
+        <section id="gallery-page">
+            <div class="background-img">
+                <img src="images/Website-BG.png">
+            </div>
+            <div class="menu" id="myMenu">
+                <a href="index.html">Home</a>
+                <a href="#">Page 1</a>
+                <a href="#">Page 2</a>
+                <a href="gallery.html">Gallery</a>
+                <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+                    <img alt="Creative Commons License"  src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+                <a href="javascript:void(0);" class="icon" onclick="Menu()">
+                    <i class="fa fa-bars"></i>
+                  </a>
+            </div>
+                <h2>Photo Gallery of the Behrend Travel Letters</h2>
+            <div class="responsive">
+                <div class="column">
+                    <img src="images/lfeBook2Cover.jpg" alt="Book 2 Cover" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="column">
+                    <img src="images/lfePage1.jpg" alt="Travel Letter from Balestrand, August 22" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="column">
+                    <img src="images/lfePage2.jpg" alt="Photograph of a mountain and photograph of building" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="column">
+                    <img src="images/lfePage3.jpg" alt="Photograph of horse being hoisted onto a boat" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="column">
+                    <img src="images/lfePage4.jpg" alt="High angle photograph of buildings, lake, mountain" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="column">
+                    <img src="images/lfePage5.jpg" alt="Travel Letter from Balestrand, August 23" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="column">
+                    <img src="images/lfePage6.jpg" alt="Travel Letter from Belgium" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="column">
+                    <img src="images/lfePage7.jpg" alt="Photograph of stuffed polar bear and photograph of dock, boat" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="column">
+                    <img src="images/lfePage8.jpg" alt="Photograph of goats and photograph of mountain, building" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="column">
+                    <img src="images/lfePage9.jpg" alt="Photographs of skiiers" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="column">
+                    <img src="images/lfePage10.jpg" alt="Photographs between Balestrand and Stalheim" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="column">
+                    <img src="images/lfePage11.jpg" alt="Travel letter from Stalheim, August 25" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="column">
+                    <img src="images/lfePage12.jpg" alt="Travel letter from Stalheim, August 25, page 2" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="column">               
+                    <img src="images/lfePage13.jpg" alt="Travel letter from Ulrik, Photograph of building" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="column">
+                    <img src="images/lfePage14.jpg" alt="Drawing labeled: view from hotel at Ulrik" width="600" height="900"/>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </section>
     </body>
 </html>

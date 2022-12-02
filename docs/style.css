@@ -11,6 +11,10 @@ html, body {
     box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.2);
     text-align: center;
 }
+.menu img{
+    margin: auto;
+    width:60%;
+}
 .menu a.icon{
     display: none;
 }
@@ -85,9 +89,9 @@ h1{
     height: 100vh;
     overflow: hidden;
 }
-#home-page img{
+.background-img img{
     z-index: -2;
-    position: absolute;
+    position:fixed;
     height: auto;
     width: auto;
     min-width: 100%;
@@ -118,4 +122,37 @@ h2{
         font-size: 2.5rem;
     }
 }
-img.gallery {max-width:600px; width:80%; }
+div.column img {
+    width: 100%;
+    height: auto;
+}
+ 
+div.desc {
+    padding: 15px;
+    text-align: center;
+}  
+* {
+    box-sizing: border-box;
+} 
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 33.333333%;
+    padding: 20px;
+}  
+@media only screen and (max-width: 700px) {
+    .responsive {
+      width: 49.99999%;
+      margin: 6px 0;
+    }
+} 
+@media only screen and (max-width: 500px) {
+    .responsive {
+      width: 100%;
+    }
+}  
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}

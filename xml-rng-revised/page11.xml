@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Letters.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <letter n="4" part="1">
+      <pen type="handwrit">
+         <date when="1955-08-25">AUGUST 25th</date> LEAVING <place name="stalheim">STALHEIM</place> FOR <place name="ulvick">ULVICK</place>
+      </pen>
+      <l n="1"/>
+      <corr type="miss text">Deci ed</corr> that, if we could get rooms at <place name="Ulvick">Ulvick</place> we <corr type="spell err">woud</corr>
+      <l n="2"/>
+      <corr type="miss text">le ve</corr>
+      <place name="Stalheim">Stalheim</place> and go on. As nothing much to do here
+        <l n="3"/>except look at the views <corr type="spell err">nd</corr> CLIMB about. Had the usual
+        <l n="4"/>heary laden <corr type="spell err">Smorgesbrod</corr>-but this time with <corr type="spell err">nohest</corr> to
+        <l n="5"/>goodness electric toaster- so we had TOAST. We strolled
+        <l n="6"/>around and went into the 'pill box" the Germans had
+        <l n="7"/>built in a spot overlooking everything. Peeked into the
+        <l n="8"/>so called museum- three little wooden houses grass roofs.
+        <l n="9"/>filled with old wooden farm shovels, , buckets etc.It <corr type="spell err">wou ld</corr>
+      <l n="10"/>
+      <corr type="spell err">notbe</corr> open until 11 and anyway we have, by now, seen a
+        <l n="11"/>number of these museums and <corr type="spell err">somemvery</corr> fine ones.
+        <l n="12"/>Sat on the terrace and talked with <person name="MrsMaxwell">Mrs. Maxwell</person>- <person name="MrClothier">Mr
+        <l n="13"/>Clothier</person> was out for a walk with three sturdy English girl
+        <l n="14"/>girls.These girls walked 7 miles yesterday
+        <l n="15"/>So we departed with a lunch, about noon. Southward.
+        <l n="16"/>Huge blue busses were continuely wheeling up to the
+        <l n="17"/>hotel before we left. Some having met the steamers
+            and <l n="18"/>others coming over the roads from quite some distance.
+        <l n="19"/>Along by the edge of the <corr type="spell err">fjoyd</corr> we stopped to fish and
+        <l n="20"/>to have out lunch. The lunch was HORRIBLE bad meat. I hope
+        <l n="21"/>we don't catch anything from the one bite.Also no, fish.
+        <l n="22"/>But a lovely place near some low water falls.
+        <l n="23"/>But the little Sunkist oranges were all right
+        <l n="24"/>I my pocket I had some <l n="25"/>crackers snitched_from the
+        <l n="26"/>
+      <corr type="spell err">breaffast</corr> table'A, 2 o'clock
+        <l n="27"/>stopped to photograph the beautiful Twindefoss Falls.
+        <l n="28"/>
+      <corr type="spell err">T thi nk</corr> Twin Falls'!!F om here 45 kilometres to <l n="29"/>Ulvick.The distances <corr type="spell err">ar</corr> not great but the roads are
+        <l n="30"/>narrow and winding- so one drives slowly <l n="31"/>therefore to go a few miles takes awhile
+        <l n="32"/>People in the fields <l n="33"/>raking up the hay.
+        <l n="34"/>They do it three <l n="35"/>in a row and rake in unison. <l n="36"/>Smart , Voss, where we turned
+        <l n="37"/>South.
+        Quite a town
+        <l n="38"/>Many neat new cement
+        <l n="39"/>buildings and some <l n="40"/>industries.
+        Snow ploughs
+        <l n="41"/>along the road sides all <l n="42"/>neatly painted- ready for <l n="43"/>the winter. <corr type="spell err">Smallchildren</corr>
+      <l n="44"/>on skis	2 to 3 years start to pratice <l n="45"/>First hey just stand on them then take a few slides etc
+        <l n="46"/>
+      <corr type="miss text">S uth</corr> from Voss passing a sort of minig project. WE <l n="47"/>stopped to ask about it. Slate for the roofs.
+    </letter>
+</root>
