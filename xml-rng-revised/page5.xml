@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Letters.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <letter n="2">
+      <pen type="handwrit">
+         <place name="Bal">BALESTRAND</place>
+         <corr type="cross out"> TO
+                        <place name="Stal">STALHEIM</place>
+         </corr>
+         <date when="1955-08-23">AUGUST 23rd</date>
+      </pen>
+      <l n="1"/> At breakfast a HUGE Smorgesbrot
+        <l n="2"/>Everything <corr type="spell err" aka="imaginable">imagineable</corr>
+      <corr type="miss text">onthe</corr> big
+        <l n="3"/>table.Even <corr type="miss text">picklescheese</corr>, <corr type="spell err" aka="jellies">jelliez</corr>, salads. cold cuts <corr type="miss text">etc
+            e</corr>
+      <l n="4"/>I painted a little on my glacier'<corr type="spell err"/> Went along the dock
+        <l n="5"/>and up the road to Anna Mundel's after seeing her sign 
+        <l n="6"/>
+      <corr type="spell err" aka="Handwork">Handwerk</corr>. 8 mts. 8 minutes. I get a
+            sweater and two wool 
+        <l n="7"/>
+      <corr type="spell err" aka="scarves">scarbes</corr>. Then we returned- stopping at
+            an artists pretty 
+        <l n="8"/>house- things for <corr type="overlap" what="a/l">sale</corr> in the studio.Cards
+            folders etc.
+        <l n="9"/>A very noisy dog- white Spitz with bad manners barked
+        <l n="10"/>at us. <person name="GailWilde">Gail</person> then went swimming. Pretty
+        <pen type="doodle">Doodle depicting a figure, presumed Gail, diving into water</pen>
+      <l n="11"/>
+      <corr type="spell err" aka="cold">cocold</corr>. But <person who="GailWilde">she</person> said it was wonderful
+            And
+        <l n="12"/>went in and out several <corr type="miss text" aka="times">imes</corr>.
+        <l n="13"/>I painted <corr type="miss text">somemore</corr>. After lunch we got a hotel
+        <l n="14"/> hotel<tran name="boat">dory</tran>- placed by the little dock for use
+        <l n="15"/>of hotel guests- and rowed about a little.
+        <l n="16"/>Pieces of rope to hold the oars and such narrow blades
+        <l n="17"/>on the oars
+        <pen type="doodle">Doodle depicting two figures rowing a boat</pen>
+      <l n="18"/> After dinner <person name="OttoBehrend">Otto</person>
+      <tran name="car">drove</tran> us up the pretty
+        <l n="19"/>narrow road beyond the hotel.Very
+        <l n="20"/>nice houses on both sides of the
+        <l n="21"/>
+      <corr type="spell err" aka="road">raod</corr>. I suppose they are summer
+        <l n="22"/>residences for people from <place name="Oslo">Oslo</place>
+      <l n="23"/>or other places. At least some of them looked so
+        <l n="24"/>Had the green duffle bag in and did a tall job <corr type="miss text" aka="repacking">repackin</corr>
+   </letter>
+   <letter n="3" part="1">
+      <l n="25"/>
+      <pen type="underlined">
+         <place where="Bal">BALESTRAND</place>
+      </pen> TO <pen type="underlined">
+         <place where="Stal">STALHEIM</place>
+      </pen>
+      <pen type="handwrit">/</pen>
+      <date when="1955-08-24">AUGUST" 24th</date>.
+        <l n="26"/>After another <corr type="spell err" aka="sumtuous">sumtous</corr>
+      <corr type="overlap" what="k/f">breakffast</corr> we started off on the
+        <l n="27"/>10.30 <tran which="boat">ferry boat</tran>.The manager <corr type="spell err" aka="and">nad</corr> his wife
+            were on the
+        <l n="28"/>dock and waved <corr type="miss text" aka="goodbye">goodby</corr>. A little 2 1/2
+            year old boy
+        <l n="29"/>was helping his father push a low cart up the incline to
+        <l n="30"/>the hotel
+        <pen type="doodle">Doodle depicting a cart with a figure on either end.</pen>
+      <l n="31"/>Noticed again the orange salt water
+        <l n="32"/>rock sea <corr type="spell err" aka="weed">week</corr> along the edges of the
+        <l n="33"/>
+      <corr type="spell err" aka="fjord">fjo yd</corr>. 13 car <corr type="spell err" aka="including">encluding</corr> one tank
+        <l n="34"/>truck on the ferry.Conversed with
+        <l n="35"/>very nice person a <person name="Max">Mrs Maxwell</person> and
+        <l n="36"/>her brother <person name="Cloth">Mr Clothier</person>.She from BrynMahr.
+        <l n="37"/>Arrived <place name="Gri">Grinde</place> at 11.45.<tran which="car">Drove</tran> along until we came to a 
+        <l n="38"/>little <tran which="boat">ferry</tran>- went across the water by aid of wire ropes.
+        <l n="39"/>We <corr type="overlap" what="u/l">couldn 't</corr> get on But <corr type="spell err" aka="it">ti</corr> came directly ba ck for us.
+        <l n="40"/>It was getting late for lunch but I had my coat
+        <l n="41"/>pockets full of crackers from <corr type="spell err">
+         <place where="Bal">Balestra
+                    nd</place>
+      </corr> breakfast tabl<corr type="miss text"/>
+      <l n="42"/>On trips everyone is advised to wear a <corr type="spell err" aka="coat">caot</corr>
+      <l n="43"/>with big pockets for this purpose. We <tran which="car">drove</tran>
+      <l n="44"/>along the edge of the largest <corr type="spell err" aka="fjord">fjoyd</corr>-
+            like a big lake
+        <l n="45"/>lake.It is also the deepest.About further to the sea.
+        <l n="46"/>About 3000 feet deep. Lots of sea gulls about.
+        <l n="47"/>Very few cars on the road. Drivers very polite
+    </letter>
+</root>
