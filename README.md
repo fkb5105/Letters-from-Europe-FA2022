@@ -2,4 +2,4 @@
 ### For DIGIT 110 Semester Project
 ###### Contributors:Felipe Bassi, Egan Peck, Stephen Catledge, and Tonya Velcko
 Here is where the link will be for the page!
-This project will catalogue, analyze, and describe the Behrends' correspondences during their travels to Norway in the 1950s. Further details surrounding the project will be added as more information comes to light.
+This project catalogues and analyzes the Behrend family's correspondences during their travels in Norway from August 22nd to 25th, 1955. It consists of six letters written by Mary Behrend over fourteen pages, most of which feature photographs.
