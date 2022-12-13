@@ -167,3 +167,12 @@ figcaption{
 .corr{
  color: darkgreen;
 }
+.hide{
+    display: none;
+}
+.corr:hover + p{
+    display: block;
+}
+.corr p:hover{
+    display: block;
+}
