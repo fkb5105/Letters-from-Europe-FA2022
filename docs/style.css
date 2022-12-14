@@ -107,7 +107,7 @@ html, body {
 .titles{
     font-family: 'ChopinScript';
     color: rgb(35, 2, 0);
-    margin: 0 auto;
+    margin: 20px auto;
     max-width: 1080px;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -125,11 +125,10 @@ h1{
     text-align: center;
     margin: auto;
 }
-#home-page{
+/*#home-page{
     position: relative;
-    height: 100vh;
     overflow: hidden;
-}
+}*/
 .background-img img{
     z-index: -2;
     position:fixed;
@@ -297,4 +296,31 @@ div.desc {
 }
 .texts{
     font-size: 1rem;
+}
+table {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+.table td, .table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+.table tr:nth-child(even){
+  background-color: #f2f2f2;
+}
+.table tr:nth-child(odd){
+  background-color: #e0dddd;
+}
+.table tr:hover {
+  background-color: #ddd;
+}
+.table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #ae1b0b;
+  color: white;
 }
