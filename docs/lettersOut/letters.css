@@ -138,7 +138,7 @@ img {
     height: auto;
   }
 .letter{
-    background-color: rgba(255, 248, 248, 0.8);
+    background-color: rgba(255, 248, 248, 0.6);
     box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.2);
     padding: 1rem;
     font-size: 1rem;
