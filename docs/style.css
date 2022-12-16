@@ -308,6 +308,9 @@ table {
   border: 1px solid #ddd;
   padding: 8px;
 }
+.table ul{
+    list-style-type:none;
+}
 .table tr:nth-child(even){
   background-color: #f2f2f2;
 }
