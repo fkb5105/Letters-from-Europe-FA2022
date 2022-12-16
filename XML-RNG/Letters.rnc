@@ -1,10 +1,14 @@
+#The main goal of our XML and our schema is to point out general important parts of the letters like places and names.  
 start = root
 root = element root {letter+}
 letter= element letter {n, part?,((pen*,l)*, mixed{(pen*, corr*, place*, date*, person*, tran*)*})*}
+#We also wanted to preserve the format of the letters within our encoding as best as possible so we apllied a line element to each line of text, matching it up with the physical letter. 
 l= element l {n,empty}
 n = attribute n {xsd:integer}
 part= attribute part {xsd:integer}
+#We use this pen element (short for pennmanship) to point out hand written parts of the text. This also includes the various doodles on the sides of the letters.
 pen = element pen {type, mixed{(place*| corr*| date*| person*|pen*)*}}
+#While reading through the letters we saw that Mary Behrend's type writing has many spelling errors and missing letters. While encoding the text we scanned through and applied a correction element to the mistakes we saw, and applied an attribute to classify the type of error in the text.
 type = attribute type {'handwrit' | 'doodle' | 'spell err' | 'miss text'| 'cross out'|'overlap'|'underlined'|'illegible'}
 corr = element corr {type, aka?, what?, text,place*}
 aka= attribute aka {text}
